@@ -49,9 +49,9 @@ npm run preview
 # 5) lint (se configurado)
 npm run lint
 
-🌿 Branching model
+## 🌿 Branching model
 
-main → produção (protegida)
+# main → produção (protegida)
 
 develop → integração (staging)
 
@@ -68,7 +68,7 @@ docs/<descricao> → documentação
 
 Regra: nunca trabalhar diretamente em main. Abrir PRs contra develop.
 
-🧠 Commits (Conventional Commits)
+## 🧠 Commits (Conventional Commits)
 
 feat(aboutus): cria secção inicial com biografia
 fix(contact): corrige validação do email no formulário
