@@ -49,6 +49,9 @@ npm run preview
 # 5) lint (se configurado)
 npm run lint
 
+
+---
+
 ## 🌿 Branching model
 
 # main → produção (protegida)
