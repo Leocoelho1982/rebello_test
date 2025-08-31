@@ -1,0 +1,8 @@
+# Donos globais - qualquer ficheiro modificado aciona vocês dois
+* @leocoelho1982 @ruidiniz02
+
+# Responsáveis específicos por secção
+/src/sections/aboutus/** @leocoelho1982
+/src/sections/contact/** @ruidiniz02
+/src/sections/gallery/** @ruidiniz02
+/src/components/** @leocoelho1982 @ruidiniz02
